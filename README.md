@@ -1,0 +1,1 @@
+Full stack app usinf Mongodb, Express, React and Node.js
